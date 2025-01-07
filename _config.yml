@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Yiwei Sun"
-  avatar : "/assets/images/yw_bio.jpg"
+  avatar : "/assets/images/yw_bio_v2.jpg"
   bio    : "A data scientist constantly learning"
   links:
     - label: "Website"
@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sunseeker99"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       URL: "https://www.linkedin.com/in/yiweisun99/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"

@@ -1,17 +1,19 @@
 ---
-Created: 2024/12/09
+title: "US Traffic Accidents Analysis and Mapping "
+last_modified_at: 2025-01-25
+categories:
+  - Projects
 tags:
   - DataScience
-  - PersonalWeb
-  - Projects
+  - Visualization
+  - D3js
 ---
-# US Traffic Accidents Analysis and Mapping  
 
 ## Project Overview  
 
 Traffic accidents have a significant impact on society, influencing public safety, healthcare costs, and infrastructure planning. Effective visualization of accident data using geographic information systems can greatly enhance our ability to address these issues.  
 
-This project focuses on creating interactive visualizations of U.S. traffic accidents using Java D3 and Tableau. These tools provide insights into critical patterns, such as accident frequency by state and county, time-of-day trends, and accident severity.  
+This project focuses on creating interactive visualizations of U.S. traffic accidents using Javascript D3 and Tableau. These tools provide insights into critical patterns, such as accident frequency by state and county, time-of-day trends, and accident severity.  
 
 The dataset for this project comes from a comprehensive Kaggle source, encompassing various features like accident severity, location, time, and environmental conditions.  
 

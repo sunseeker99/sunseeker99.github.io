@@ -32,7 +32,8 @@ The dataset for this project comes from a comprehensive Kaggle source, encompass
 ## Demonstration  
 
 Watch the video below for a demonstration of the project's functionality:  
-[Project Demo Video](https://youtu.be/M9BQeqTz3TU)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M9BQeqTz3TU?si=lD7UD4QP7CReKTAW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+If the embedding is not working, you can see the demo video [here](https://youtu.be/M9BQeqTz3TU).
 
 ## Explore the Code and Data  
 
